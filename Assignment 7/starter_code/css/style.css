@@ -309,9 +309,18 @@ footer p {
     display: inline-block;
   }
 
-  #benefits {
-    width: 100%;
-    display: inline-block;
+   #benefits p {
+    width: 80%;
+    margin: 0 auto 20px;
+  }
+
+  #benefits ul {
+    width: 80%;
+    margin: 0 auto 25px;
+  }
+
+  blockquote {
+    width: 80%;
   }
 
   #sidebar {
